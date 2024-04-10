@@ -260,4 +260,5 @@ function restart(){
   healthText.innerText = health;
   xpText.innerText = xp;
   goTown();
+  console.log("to fix the issue of push, later remove it");
 }
